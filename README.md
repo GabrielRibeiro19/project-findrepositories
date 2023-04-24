@@ -1,6 +1,6 @@
 # Favoritador de Repositórios GitHub
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto foi criado usando React Js.
 
 ## Como funciona
 
